@@ -44,6 +44,6 @@ vars:
 
 seeds: 
     taxidbtproject:
-        zone:
+        zones:
             +column_types:
                 locationid: numeric
